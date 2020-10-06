@@ -1,0 +1,149 @@
+body, div {
+    margin: 0;
+    padding: 0;
+}
+
+/* header qismi boshlandi */
+
+
+/* HEADER--Top qismi */
+.header {
+    width: 960px;
+    margin: 0 auto;
+    
+}
+.top {
+    background-color:#F8F6F6;
+    
+   
+}
+.top li {
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+}
+.top a {
+    text-decoration: none;
+    color: #9CA7C2;
+}
+.top ul {
+    margin: 5px;
+    padding: 20px;
+    margin-block-end: 0em;
+}
+.main {
+    background-image: url("image.jpg");
+    width: 100%;
+    padding: 0px 0px 30px 0px;
+    text-align: center;
+    
+}
+/* top qismi tugadi */
+
+/* HEADER--main qismi */
+
+.text h3 {
+margin: 5px;
+padding: 30px 5px 1px 20px;
+margin-block-start: 0em;
+color: #FFEEA0;
+}
+.text h4 {
+    margin: 5px;
+    padding: 5px 35px 20px 20px;
+    color: #FFEEA0;
+}
+.header button {
+    text-align: center;
+    padding: 20px;
+    color: black;
+    background-color: #E56E10;
+}
+
+
+/* Container boshlandi  */
+
+.container {
+    width: 800px;
+    margin: 0 auto;    
+}
+.text1 {
+    display: inline-block;
+    width: 220px;
+    padding: 22px;
+}
+.text2 {
+    padding: 5px;
+    background-color: black;
+    margin-left: 5px;
+    
+}
+.text2 h4 {
+    margin-block-end: 0.33em;
+    margin-block-start: 0.33em;
+}
+.text2 a {
+    margin-left: 75px;
+    
+}
+.container button {
+    margin-left: 20px;
+    text-align: center;
+    padding: 10px;
+    color: black;
+    background-color: #E56E10;
+
+}
+.photo img {
+    width: 170px;
+    margin-left: 27px;
+}
+.photo {
+    display: inline;
+    
+}
+.photo1 a {
+    text-decoration: none;
+    color: #E76F00;
+}
+.photo1 {
+    color: black;
+}
+
+
+/* Footer boshlandi */
+
+.footer {
+    width: 800px;
+    margin: 0 auto;
+    
+    
+}
+.footer-one {
+    width: 800px;
+    display: inline;
+       
+}
+
+.bobo {
+    width: 450px;
+    display: inline-block;
+      
+    
+}
+.bobo button {
+    
+    text-align: center;
+    padding: 10px;
+    color: black;
+    background-color: #E56E10;
+}
+
+
+
+
+
+
+
+
+
